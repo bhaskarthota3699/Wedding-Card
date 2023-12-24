@@ -1,0 +1,13 @@
+*{
+    /* background-color: brown; */
+}
+.container-fluid{
+    width: 500px;
+    height: 1000px;
+    background: linear-gradient( rgb(176, 34, 176), rgb(219, 133, 133));
+}
+
+
+
+
+
